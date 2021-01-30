@@ -169,8 +169,6 @@ nav ul li a:hover, a.active
 
 .booking-content p
 {
-    background-color: rgba(41, 81, 162, 0.425);
-    padding: 20px;
     border-radius: 20px;
     text-shadow: 5px 5px 10px rgb(0, 0, 0);
     color: white;
